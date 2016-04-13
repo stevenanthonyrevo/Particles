@@ -11,4 +11,4 @@ Start with the development folder. Pick the particles you want to start your pro
 
 
 
-Non-Commercial Use - Up until further notice and/or permission by Steven anthony.   
+Commercial Use not allowed - until further notice and/or permission by Steven anthony.   
